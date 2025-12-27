@@ -1,0 +1,9 @@
+Department,Category,Line Item,Amount
+Executive,Operations,Office Supplies,50000
+Executive,Operations,Salaries,300000
+Executive,Travel,Travel and Conference,200000
+Technology,Infrastructure,Software Licenses,150000
+Technology,Infrastructure,Hardware,100000
+Technology,Travel,Travel and Conference,50000
+Human Resources,Training,Professional Development,80000
+Human Resources,Travel,Travel and Conference,30000
